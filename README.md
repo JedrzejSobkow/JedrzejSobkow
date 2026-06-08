@@ -46,22 +46,6 @@
 
 ---
 
-# Key Projects
-
-### 🎮 [L2Play Online](https://l2play.it)
-> Full-stack web platform for browser-based gaming with social features — user accounts, real-time chat, friends system.
-
-**Stack:** `Python` · `React` · `Django` · `WebSockets`
-
----
-
-### 🐮 LANGIO
-> Android language-learning app with vocabulary drills, exams, and persistent user progress.
-
-**Stack:** `Kotlin` · `Jetpack Compose`
-
----
-
 # GitHub Stats
 
 <div align="center">
