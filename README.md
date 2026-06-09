@@ -2,7 +2,7 @@
 
 # Jędrzej Sobków
 
-**Computer Science student • Backend & Fullstack • Dog enjoyer**
+**Computer Science student • Backend & Fullstack • Dog lover**
 
 ![Location](https://img.shields.io/badge/Location-Poland-0d1117?style=flat-square&labelColor=161b22)
 [![GitHub](https://img.shields.io/badge/GitHub-JedrzejSobkow-0d1117?style=flat-square&logo=github&labelColor=161b22)](https://github.com/JedrzejSobkow)
@@ -60,6 +60,6 @@
 
 <div align="center">
 
-*Open to interesting projects and collaborations — feel free to reach out!*
+*Open to interesting projects and collaborations - feel free to reach out!*
 
 </div>
